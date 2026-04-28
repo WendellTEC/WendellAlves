@@ -13,30 +13,49 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
 
 ## 🤖 Linguagens e Tecnologias
 
-### 💻 Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
-</p>
+<table>
+  <tr>
+    <td align="center">💻 Linguagens</td>
+    <td align="center">⚙️ Frameworks</td>
+    <td align="center">🛠️ Ferramentas</td>
+    <td align="center">🚀 DevOps</td>
+    <td align="center">🗄️ Banco de Dados</td>
+  </tr>
 
-### ⚙️ Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40">        
-</p>
+  <tr> 
+    <!-- Linguagens -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40">
+    </td>
 
-### 🛠️ Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" style="margin-right:10px;">       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin-right:10px;">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40">
-</p>
+    <!-- Frameworks -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40">
+    </td>
 
+    <!-- Ferramentas -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40">
+    </td>
 
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right:10px;">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40">        
-</p>
+    <!-- DevOps -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40">
+    </td>
+
+    <!-- Banco -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40">
+    </td>
+  </tr>
+</table>
 
 ---
 
