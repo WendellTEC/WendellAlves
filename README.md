@@ -52,6 +52,4 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
 
 ---
 
-## 🐉 Contribuições
 
-![Snake animation](https://github.com/SEU_USER/WendellTEC/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
