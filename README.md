@@ -14,7 +14,9 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
 ## 🤖 Linguagens e Tecnologias
 
 ### 💻 Linguagens
-![Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
+</p>
 
 ### ⚙️ Frameworks
 ![Spring](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px"/>)
