@@ -22,41 +22,24 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
     <td align="center">🗄️ Banco de Dados</td>
   </tr>
 
-  <tr> 
-    <!-- Linguagens -->
+  <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
+      <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
     </td>
-     <!-- Frameworks -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40">
+      <img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring">
     </td>
-    <!-- Ferramentas -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40">
+      <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
+      <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea">
     </td>
-    <!-- DevOps -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40">
+      <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
     </td>
-    <!-- Banco -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40">
+      <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+      <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WendellTEC&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendellTEC&layout=compact&theme=dark)
-
----
-
-![Snake animation](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
