@@ -21,7 +21,9 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
 
 ### 🛠️ Ferramentas
 ![Git](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>)
-![Intelij](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>)
+![Intelij](
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          )
 
 ### 🗄️ Banco de Dados
 ![MySQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>)
