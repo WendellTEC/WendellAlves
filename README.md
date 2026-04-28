@@ -24,22 +24,22 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
-      <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
-      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
-      <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </td>
   </tr>
 </table>
