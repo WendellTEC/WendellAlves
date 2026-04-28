@@ -14,18 +14,18 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
 ## 🤖 Linguagens e Tecnologias
 
 ### 💻 Linguagens
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>)
 
 ### ⚙️ Frameworks
-![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
+![Spring](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px"/>)
 
 ### 🛠️ Ferramentas
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![Intelij](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)
+![Git](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>)
+![Intelij](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px"/>)
 
 ### 🗄️ Banco de Dados
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![MySQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>)
+![PostgreSQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/>)
 
 ---
 
