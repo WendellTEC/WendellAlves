@@ -40,7 +40,9 @@ Olá, seja bem vindo ao meu GitHub! Aqui você encontra muitos projetos Backend 
     <!-- DevOps -->
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+      <code>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+      </code>
     </td>
     <!-- Banco -->
     <td align="center">
